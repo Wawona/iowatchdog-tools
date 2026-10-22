@@ -1,4 +1,4 @@
-# wwn-iowatchdog
+# iowatchdog-tools
 
 macOS **Watchdog** tools for Wawona Desktop / LockScreen Mode B.
 
